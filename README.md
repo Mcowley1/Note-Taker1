@@ -10,8 +10,11 @@ Note-Take is a app that takes in notes and adds it to a list, which can also be 
 * Node.js
 * Express.js
 * Insomnia core
-* Heroku (https://dashboard.heroku.com/)
-* npm shortid for unique id values for the notes
+* Heroku 
+
+## Heroku link
+
+
 
 
 ## Screenshot
