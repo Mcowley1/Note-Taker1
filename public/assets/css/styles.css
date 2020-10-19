@@ -53,8 +53,8 @@ html, body {
 .list-container .list-group-item:first-child,
 .list-container .card {
   border-top: none;
-  border-top-right-radius: 0;
-  border-top-left-radius: 0;
+  border-top-right-radius: 3;
+  border-top-left-radius: 3;
 }
 
 .list-container i {
@@ -65,6 +65,7 @@ html, body {
 .list-container .list-group-item {
   border-left: none;
   border-right: none;
+  border-radius: 10px;
   padding: 20px;
   cursor: pointer;
 }

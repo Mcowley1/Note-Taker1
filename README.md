@@ -15,4 +15,5 @@ Note-Take is a app that takes in notes and adds it to a list, which can also be 
 
 
 ## Screenshot
-![screenshot](Note-Taker-Screenshot.png)
+![mainshot](mainshot.png)
+![secondshot](secondshot.png)
